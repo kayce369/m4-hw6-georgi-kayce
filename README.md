@@ -2,6 +2,8 @@
 
 **Kayce Georgi**
 
+*Please note - the commits might show as completed by Patrick Georgi. I am out of town and using my husband's laptop to do work, but his GitBash is set up to his account. All work on this project was completed by me*
+
 ## Issues
 
 Initially, I had issues with the index.js file. For some reason, no matter what I did, it wouldn't even comprehend the basic alerts and structure that was in the document. I re-saved the original index.js file and it seemed to fix it, so not sure what happened there.
