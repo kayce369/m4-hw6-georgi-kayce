@@ -2,7 +2,7 @@
 
 **Kayce Georgi**
 
-*Please note - the commits might show as completed by Patrick Georgi. I am out of town and using my husband's laptop to do work, but his GitBash is set up to his account. All work on this project was completed by me*
+*Please note - the commits might show as completed by Patrick Georgi. I am out of town and using my husband's laptop to do work, but his GitBash is set up to his account. All work on this project was completed by me.*
 
 ## Issues
 
